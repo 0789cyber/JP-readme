@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Jeremy Pittman
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I transfered recently from a community collage to UTSA and taking two courses over the summer. My major is CyberSecurity, before I began going to school I was working in between jobs from Amazon to working for via as a CDL shop attendant. Currently I have no extra-curriculars, however I do intend to look into UTSAs esports team.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
